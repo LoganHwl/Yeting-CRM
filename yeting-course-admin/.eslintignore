@@ -1,0 +1,10 @@
+**/src/**
+**/config/**
+**/functions/**
+**/mock/**
+**/node_modules/**
+**/pubic/**
+**/script/**
+**/tests/**
+**/dist/**
+**/*.js
